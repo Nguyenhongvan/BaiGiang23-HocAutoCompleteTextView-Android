@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaiGiang23-HocAutoCompleteTextView</string>
+    <string-array name="arrThucAn">
+        <item>Kem</item>
+        <item>Bánh ngọt</item>
+        <item>Kẹo trái cây</item>
+        <item>Kẹo sô-cô-la</item>
+        <item>Nước suối</item>
+    </string-array>
+</resources>
